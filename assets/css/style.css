@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700;900&display=swap');
+
+/*------------------------------------------images */
+
+.main-image {
+    background:url("../images/pexels-jadson-thomas-542553.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    animation-name: image-drumstop;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+    #image-drumstop{
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+}
+
+@keyframes image-drumstop{
+  from{
+  transform: scale(1);
+  }
+  to{
+  transform: scale(1.1);
+  } 
+}
+
+
+#logo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: black;
+}
+
+
+
+
+

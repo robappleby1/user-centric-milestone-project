@@ -25,11 +25,12 @@ This site will be a fully responsive website that will advertise the School, alo
 - As a first time user I need to easily navigate through the site and find the information that I need.
 - As a first time user I need to be able to view the website clearly on both tablet and mobile, as well as desktop.
 - As a first time user I need to be able to easily find contact details to book lessons and also find social media links to follow the school.
+- As a first time user I need to be able to view testimonials to understand what the users think of the service provided.
 
 
 ### Returning Visitor Goals
 
-- As a returning visitor I want to be able to look at the gallery to view images of concerts, and videos of performances etc.
+- As a returning visitor I want to be able to look at the gallery to view images of concerts, and videos of performances.
 - As a returning visitor I want to be able to sign up to the email newsletter to be kept up to date with any lesson changes or Gallery updates.
 
 

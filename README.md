@@ -74,11 +74,18 @@ There will be an added form on the landing page which the visitor to the site wi
 There will be a testimonial section, giving reviews of past and current users of the school. 
 <br />
 There will also be a gallery section which will show pictures of the studio, plus some live pictures and video of recent
-concerts put on by the studio. Lastly, there will be the footer section which will consist of the contact details, a map and the social media icons.
+concerts put on by the studio. Lastly, there will be the footer section which will consist of the contact details and the social media icons.
 
 <br />
 
 # Wireframes
+
+Desktop view [here](/assets/images/desktop-view.png)
+
+Tablet view [here](/assets/images/tablet-view.png)
+
+Mobile view [here](/assets/images/mobile-view.png)
+
 
 <br />
 

@@ -98,3 +98,14 @@ Mobile view [here](/assets/images/mobile-view.png)
 
 # Frameworks and Libraries
 
+
+# Deployment
+
+## Github Pages
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
+2. At the top of the Repository locate the "Settings".
+3. Click on "Pages" will open "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Main Branch".
+5. The page will automatically refresh.
+6. At the top near github header to locate the now published site [link] (https://robappleby1.github.io/user-centric-milestone-project/)
+

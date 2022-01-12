@@ -10,7 +10,7 @@
 }
 
 .callout-container {
-    background:url('../images/header.jpg');
+    background:url("../images/header.jpg");
     background-position:0;
     background-repeat: no-repeat;
     background-size: cover;

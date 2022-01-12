@@ -10,15 +10,12 @@
 }
 
 .callout-container {
-    background:url(../images/header.jpg");
+    background:url('../images/header.jpg');
     background-position:0;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 500px;
-    animation-name: image-drumstop;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-}
+    
 
 #logo{
 

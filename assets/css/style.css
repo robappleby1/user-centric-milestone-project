@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;700&family=Oswald:wght@600;700&display=swap');
 
 /*------------------------------------------images */
 
 .header-container {
     background: #036ffc;
     
-    min-height:100px
+    min-height:70px
     
 }
 
@@ -15,9 +15,44 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 500px;
-    
-
-#logo{
-
+    margin-top: 10px;
 }
 
+.navbar-brand{
+padding-left: ;
+}
+
+#nav-menu li {
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    text-transform:capitalize;
+    font-family: oswald, sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: right;
+    letter-spacing: 2px;
+    margin-left: 25px;
+}
+
+.free-taster-form{
+font-size: 130%;
+  font-family: Oswald;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+
+  width: 500px;
+  height: 200px;
+  padding-top: 40px;
+  padding-left: 40px;
+  background-color: rgba(241, 109, 107, .7);
+
+  bottom:30px;
+  right: 100px;
+
+  position: absolute;
+}
+
+.carousel-inner{
+    height:max-content;
+}

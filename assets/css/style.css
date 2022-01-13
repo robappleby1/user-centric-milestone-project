@@ -5,6 +5,7 @@
 .header-container {
     background: #036ffc;
     
+    
     min-height:70px
     
 }
@@ -16,6 +17,8 @@
     background-size: cover;
     min-height: 500px;
     margin-top: 10px;
+    
+    
 }
 
 .navbar-brand{
@@ -27,31 +30,22 @@ padding-left: ;
     text-decoration: none;
     display: inline-block;
     text-transform:capitalize;
-    font-family: oswald, sans-serif;
-    font-weight: bold;
+    font-family: inter, sans-serif;
+    color: #fff;
+    font-weight:200;
     font-size: 150%;
     text-align: right;
     letter-spacing: 2px;
     margin-left: 25px;
 }
 
-.free-taster-form{
-font-size: 130%;
-  font-family: Oswald;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-
-  width: 500px;
-  height: 200px;
-  padding-top: 40px;
-  padding-left: 40px;
-  background-color: rgba(241, 109, 107, .7);
-
-  bottom:30px;
-  right: 100px;
-
-  position: absolute;
+#nav-menu li a {
+    color: white;
 }
+
+#nav-menu li a:hover {
+    color: #00bee0;
+
 
 .carousel-inner{
     height:max-content;

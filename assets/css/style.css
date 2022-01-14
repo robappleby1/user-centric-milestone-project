@@ -2,16 +2,20 @@
 
 
 h1{
-    font-family: inter; sans-serif
+    font-family: inter, sans-serif;
     font-weight: 900;
     font-size: 38px;
     text-transform: uppercase;
+
 }
+
 /*------------------------------------------images */
 
 .header-container {
     background: #036ffc;
     height: 75%;
+    background: rgb(3,111,252);
+    background: linear-gradient(90deg, rgba(3,111,252) 0%, rgba(0,0,0) 100%);
 }
 
 .callout-container {
@@ -19,15 +23,15 @@ h1{
     background-position:0;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 500px;
-    margin-top: 10px;
-    
-    
+    min-height: 600px;
+    margin-top: 10px;  
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
-.navbar-brand{
-padding-left: ;
-}
 
 #nav-menu li {
     list-style-type: none;
@@ -51,4 +55,32 @@ padding-left: ;
     color: #00bee0;
 }
 
+
+
+.form-header{
+    font-family: oswald, sans-serif;
+    font-weight: 700;
+    color: #fff;
 }
+
+   .free-form{
+       width:auto;
+       border: 1px solid;
+       border-radius: 10px;
+       padding: 20px;
+       text-align: center;
+       background-color: rgb(3,111,252,10);
+       margin: 20px;
+   }
+       
+   
+.about-us-container{
+background-color: #036ffc;
+}
+
+.about-us-container{
+    background-color: rgb(3,111,252);
+    background: linear-gradient(90deg, rgba(3,111,252) 0%, rgba(0,0,0) 100%);
+}
+
+

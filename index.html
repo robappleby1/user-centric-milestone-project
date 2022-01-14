@@ -18,13 +18,13 @@
 <body>
     <header>
 
-        <!------------navbar-->
+        <!-------navbar-->
 
         <header class="header-container container-fluid sticky-top">
 
         <nav id="nav-menu" class="navbar navbar-expand-lg container navbar-dark">
             <a id="logo" class="navbar-brand" class="img-fluid" aria-current="page" href="index.html">
-               <img src="./assets/images/logo 2.png"></a> 
+               <img src="./assets/images/logo 2.png" alt="north wales drum school logo"></a> 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-toggler" aria-controls="navbar-toggler" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -47,36 +47,44 @@
             </div>
         </nav>
         
-        <!------------/navbar-->
+        <!------------/. navbar-->
 
     </header>
     
     <div class="container-fluid callout-container"></div>
 
-    <!------------/form-->
-    <div id="free-form" class="free-form-container container">
-    <form>
-      
-        <h1>Book your Free Taster Lesson!</h1>
-        <div class="row mb-3">
-            <label for="name" class="col-sm-2 col-form-label">Name</label>
-            <div class="col-sm-4">
-              <input type="text" class="form-control" id="name">
-            </div>
-                <div class="row mb-3">
-                    <label for="address" class="col-sm-2 col-form-label">Address</label>
-                    <div class="col-sm-4">
-                      <input type="text" class="form-control" id="address">
-                    </div>
-                    <div class="row mb-3">
-                        <label for="email" class="col-sm-2 col-form-label">Email</label>
-                        <div class="col-sm-4">
-                          <input type="email" class="form-control" id="email">
-                        </div>
-                        <div class="row mb-3">
-                        <button type="button" class="btn btn-success">Success</button>
-                        <div class="col-sm-4"></div>     
-                      </form>
+    <!------------form-->
+    <div class="col-md-5">
+      <h1 class="text-md-right">Contact Us</h1>
+      <hr>
+      <form class="footer-form" action="https://formdump.codeinstitute.net/">
+        <fieldset class="form-group">
+          <input type="text" class="form-control" id="name" placeholder="Name" required>
+      </fieldset>
+        <br>
+
+        <fieldset class="form-group">
+              <input type="text" class="form-control" id="phone-number" placeholder="Enter Tel No" required>
+          </fieldset>
+          <br>
+
+          <fieldset class="form-group">
+            <input type="email" class="form-control" id="email" placeholder="Enter Email" required>
+        </fieldset>
+        <br>
+
+          <fieldset class="form-group">
+              <textarea class="form-control" id="messages" placeholder="Message" rows="6" required></textarea>
+          </fieldset>
+          <br>
+
+          <fieldset class="form-group text-xs-right">
+              <button type="button" class="btn btn-secondary-outline btn-lg btn-success"><b>Send</b></button>
+          </fieldset>
+      </form>
+  </div>
+
+                      <!------------/. form-->
 
                     
 
@@ -127,6 +135,8 @@
                 
             </section>
 
+            <!------------/. About Us-->
+
             <!----------Gallery-->
             <div id="gallery" class="gallery-container container">
             
@@ -152,10 +162,10 @@
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img src="..." class="d-block w-100" alt="...">
+                    <img src="./assets/images/pexels-genaro-servín-804552.jpg" class="d-block w-100" alt="Summer Concert 2019">
                     <div class="carousel-caption d-none d-md-block">
-                      <h5>Third slide label</h5>
-                      <p>Some representative placeholder content for the third slide.</p>
+                      <h5>Summer Concert 1997</h5>
+                      <p>Some Live photogrophy</p>
                     </div>
                   </div>
                 </div>
@@ -171,33 +181,96 @@
             </div>
           </div>
 
+          <!------------/. Gallery-->
+
               <!-------------Testimonials-->
 
               
               <div id="testimonials" class="testimonials-container container">
                 <h1>Testimonials</h1>
-                <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae    
+                  <figure>
+                    <blockquote>
+                    <p>
+                    Our son had his first lesson here at the age of 9 and has blossomed ever since. He is currently on grade 2.
+                    I would recommend North Wales Drum School to anyone.    
                 </p>
+              </blockquote> 
+                <figcaption>
+                  - Lillian, <cite>Buckley, North Wales</cite>
+                </figcaption>
+              </figure>
 
+              <figure>
+                <blockquote>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-                </p>
+                My daughter really loves her lessons there. Highly recommended!   
+            </p>
+          </blockquote> 
+            <figcaption>
+              - Charlie, <cite>Ruthin</cite>
+            </figcaption>
+          </figure>
 
-                <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-                </p>
+          <figure>
+            <blockquote>
+            <p>
+            Our son has been going for 3 years - the tutors at North Wales Drum School are patient and very encouraging. 
+            We would recommend without hesitation.
+        </p>
+      </blockquote> 
+        <figcaption>
+          - Andria, <cite>Buckley, North Wales</cite>
+        </figcaption>
+      </figure>
+
+      <!------------/. Testimonials-->
 
                   <!---------------footer-->
-                <footer>
+                <footer class="contact-us-footer">
                   <div id="contact-us" class="contact-us-container container"></div>
                   <p>Contact us</p>
 
+                  <footer class="footer">
+                    <!-- Footer -->
+                    <div class="container footer-container">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <a class="footer-logo" href="#"><a id="logo" class="navbar-brand" class="img-fluid" aria-current="page" href="index.html">
+                                  <img src="./assets/images/logo 2.png" alt="north wales drum school logo"></a>
+                                        
+                                        <p class="phone-number">Please call us on: 07808 256787</p>
+                                        <p>
+                                           Or send us an email at <a href="northwalesdrumschool@sky.com"></a>
+                                        </p>
+                                <ul class="list-inline social-links">
+                                    <li class="list-inline-item">
+                                        <a target="_blank" href="#">
+                                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                                            <span class="sr-only">Facebook</span>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a target="_blank" href="#">
+                                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                                            <span class="sr-only">Instagram</span>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a target="_blank" href="#">
+                                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                            <span class="sr-only">LinkedIn</span>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                      <a target="_blank" href="#">
+                                          <i class="fa fa-twitter" aria-hidden="true"></i>
+                                          <span class="sr-only">Facebook</span>
+                                </ul>
+                            </div>
+            
+
                 </footer>
-                <!---------------footer--->
+                <!---------------/. footer--->
               </div>
               </div>
         </div>

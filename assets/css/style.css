@@ -22,22 +22,11 @@ h1{
 .navbar-brand{
     max-width:100px;
 }
-
-.callout-container {
-    background:url("../images/header.jpg");
-    background-position:0;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 600px;
-    margin-top: 10px;  
-    overflow: hidden;
-    position: relative;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+.free-form{
+    max-width: 100%;
+    height: auto;
 }
+
 
 
 #nav-menu li {
@@ -67,21 +56,13 @@ h1{
 .form-header{
     font-family: oswald, sans-serif;
     font-weight: 700;
-    font-size: xx-large;
+    font-size: 150%;
     color: #f50707
 }
 
 
    .free-form{
-       padding: 20px;
-       text-align: center;
-       margin: 20px;
-       width:500px;
-       height:auto;
        background-color: rgba(255,255,255, 0.7);
-       bottom: 20px;
-       right: 70px;
-       position:absolute
         }
 
        

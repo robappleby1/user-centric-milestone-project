@@ -60,8 +60,10 @@ h1{
 .form-header{
     font-family: oswald, sans-serif;
     font-weight: 700;
-    font-size: 190%;
-    color: #f50707
+    font-size: 170%;
+    color: #f50707;
+    text-align: center;
+    font-size: 30px;
 }
 
 
@@ -76,6 +78,7 @@ h1{
     color: rgba(3,111,252);
     background: linear-gradient(90deg, rgba(3,111,252) 0%, rgba(0,0,0) 100%);
     margin-top: 10px;
+    margin-bottom: auto;
     padding:20px;
     
 }
@@ -112,45 +115,79 @@ h1{
 .studio-equipment-container{
     background-color: #f57a07;
     padding-top: 10px;
-    padding-bottom: 15px;
+    margin-bottom: 10px;;
 }
 
 
 .studio-equipment-container h1{
     color: #fff;
 }
+.studio-equipment-container i{
+    font-size: 40px;
+    color: #fff;
+    font-family: inter, sans-serif;
+ 
+}
 
 .gallery-container h5{
     color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .testimonials-container p{
     color: #000;
+    
 }
+
+.testimonials-container h1{
+    color: #00bee0;
+    font-family: inter, sans-serif;
+}
+    
 
 .footer{
     background: #036ffc;
     background: linear-gradient(90deg, rgba(3,111,252) 0%, rgba(0,0,0) 100%);
 }
 
-.footer-container{
-    color:#fff;
-    padding: 20px;
+.social-links {
+    margin-top: 15px;
+    padding-bottom: 15px;
 }
 
-.footer-container h1{
-    font-family: inter, sans-serif;
-    color: #00bee0;
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #036ffc;
+    background: #fff
 }
 
-.footer-container p{
-    font-family: inter, sans-serif;
-    font-size: x-large;
-    text-decoration: none;
-}
+img.align-center {
+    display: block;
+    margin: 0px auto;}
+    img.medium{
+        width:250px;
+        height:auto;
+        padding-top: 20px;;
+    }
 
-.footer-container a{
-    text-decoration: none;
-    color: #fff;
+    .footer p{
+        text-align: center;
+        font-family: inter, sans-serif;
+        font-size: 2opx;
+    }
+
+    .footer-logo a {
+        text-decoration: none;
+    }
+
+    .social-links{
+        text-align: center;
     
-}
+    }

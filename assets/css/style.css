@@ -108,16 +108,25 @@ h1{
     border-style: solid;
     border-width: 2px;
     border-color: #fff;
-    margin: auto; 
+    margin-top: 20px;
+    border-radius: 10px; 
 }
 
 
 .studio-equipment-container{
     background-color: #f57a07;
     padding-top: 10px;
-    margin-bottom: 10px;;
+    margin-bottom: 10px;
 }
 
+.equipment-photo img{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #fff;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
 
 .studio-equipment-container h1{
     color: #fff;

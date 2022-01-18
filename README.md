@@ -4,7 +4,7 @@
 
 For this project I intend to design a static website for a fictional drum teacher or school. This site will be constructed using knowledge gained so far on the HTML, CSS and User Centric Design Modules.
 
-The live website can be found here. (link)
+The live website can be found here. [link](https://robappleby1.github.io/user-centric-milestone-project/)
 
 <br />
 
@@ -47,6 +47,8 @@ The blue will represent a feeling of trust and stability and will compliment the
 
 <h2 align="center"><img src="assets/images/Untitled-2.jpg"></h2>
 
+The colours #00bee0 (light blue), #f50707 (red) and #f57a07 (orange) were added to the main colour scheme to accent the existing royal blue and black.
+
 <br />
 
 # Typography
@@ -55,6 +57,8 @@ The logo will be made up of an svg file rather than a typeface. This logo will b
 
 - Inter (including all font weights)
 A sans-serif font with easy readability for the paragraph text.
+
+- A further typeface of Oswald was added to be used in the form header.
 
 <br />
 
@@ -98,6 +102,13 @@ Mobile view [here](/assets/images/mobile-view.png)
 
 # Frameworks and Libraries
 
+- Bootstrap v5.1.3: Bootstrap was used to assist with the responsiveness and styling of the website.<br />
+- Google Fonts: Google fonts were used to import the Pacifico and Quicksand font family into the style.css file which is used on all pages throughout the project.<br />
+- Gitpod: Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.<br />
+- GitHub: GitHub is used to store the project's code after being pushed from Git.<br />
+- Photoshop: Photoshop was used to resizing images and editing photos for the website.<br />
+- Balsamiq: Balsamiq was used to create the wireframes during the design process.<br />
+- Chrome dev tools was used to view the site on different devices.<br />
 
 # Deployment
 
@@ -107,5 +118,26 @@ Mobile view [here](/assets/images/mobile-view.png)
 3. Click on "Pages" will open "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Main Branch".
 5. The page will automatically refresh.
-6. At the top near github header to locate the now published site [link] (https://robappleby1.github.io/user-centric-milestone-project/)
+6. At the top near github header to locate the now published site [link](https://robappleby1.github.io/user-centric-milestone-project/)
+<br />
+# Credits
+## The following images were used in the project:
+<br />
+-The header image was taken by user 4634656 on pixabay.com
+<br />
+-The 2nd image was taken by user Tima Miroschnichenko on Pexels.com
+<br />
+-The 3rd image was taken by user cottonbro on Pexels.com
+
+<br />
+
+-The carousel images are as follows:
+<br />
+-Image 1: Taken by Genaro Servin on Pexels.com
+<br />
+-Image 2: Taken by Yan Krukov on Pexels.com
+<br />
+-Image 3: Taken by Jackmac34 on Pixabay.com
+
+<br />
 

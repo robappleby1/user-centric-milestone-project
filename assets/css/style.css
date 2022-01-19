@@ -131,17 +131,20 @@ h1{
 .studio-equipment-container h1{
     color: #fff;
 }
+
 .studio-equipment-container i{
     font-size: 40px;
     color: #fff;
     font-family: inter, sans-serif;
- 
+    
 }
+
 
 .gallery-container h5{
     color: #fff;
     margin-top: 10px;
     margin-bottom: 10px;
+    
 }
 
 .testimonials-container p{

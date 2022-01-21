@@ -1,4 +1,6 @@
-# Milestone Project 1 - North Wales Drum School
+# Milestone Project 1 - North Wales Drum School.
+
+<h2 align="center"><img src="assets/images/responsive-sites.png"></h2>
 
 ## Purpose
 
@@ -108,7 +110,9 @@ Mobile view [here](/assets/images/mobile-view.png)
 - GitHub: GitHub is used to store the project's code after being pushed from Git.<br />
 - Photoshop: Photoshop was used to resizing images and editing photos for the website.<br />
 - Balsamiq: Balsamiq was used to create the wireframes during the design process.<br />
-- Chrome dev tools was used to view the site on different devices.<br />
+- Chrome dev tools was used to view the site on different devices.
+
+<br />
 
 # Deployment
 
@@ -134,25 +138,65 @@ Type git clone, and then paste the URL you copied.
 4. Under "Source", click the dropdown called "None" and select "Main Branch".
 5. The page will automatically refresh.
 6. At the top near github header to locate the now published site [link](https://robappleby1.github.io/user-centric-milestone-project/)
+
 <br />
+
+
+# Testing
+The Lighthouse, W3C Markup Validator and the Lighthose report were used to determine whether there were any
+errors in the code.
+
+- [W3C Markup Validator]
+- [W3C CSS Validator](assets/images/css-validator.png)
+- [Lighthouse report](assets/images/lighthouse.png)
+
+## Testing User Stories from UX Section
+
+- As a first time user I need to easily navigate through the site and find the information that I need.
+    - When accessing the site, users see the main header image which immediately grabs the attention.
+    - Easily readable fixed navigation page allows users to navigate up and down the page easily.
+    - The sections have been designed to be easily readable, with each section identifiable with colour breaks.
+<br />
+- As a first time user I need to be able to view the website clearly on both tablet and mobile, as well as desktop.
+    - The website was built from a mobile-first design perspective, giving a clear indication of the important information the end user needs.
+    <br />
+
+- As a first time user I need to be able to easily find contact details to book lessons and also find social media links to follow the school.
+    - Upon entering the site the booking form to access the ability to book a free taster lesson is immediately to the right or underneath the header form, so this is easy to access. The fixed navigation bar at the top gives easy access to the contact details at the foot of the website.
+    <br />
+
+- As a first time user I need to be able to view testimonials to understand what the users think of the service provided.
+    - The testimonials section is easily accessed via the fixed navigation bar.
+
+<br />
+
+# Further Testing
+
+The Website was tested on Chrome, Firefox and Safari browsers.
+The site was tsted to make sure all links worked properly.
+
+<br />
+
 # Credits
 ## The following images were used in the project:
 <br />
--The header image was taken by user 4634656 on pixabay.com
+- The header image was taken by user 4634656 on pixabay.com. 
 <br />
--The 2nd image was taken by user Tima Miroschnichenko on Pexels.com
+- The 2nd image was taken by user Tima Miroschnichenko on Pexels.com
 <br />
--The 3rd image was taken by user cottonbro on Pexels.com
+- The 3rd image was taken by user cottonbro on Pexels.com
 
 <br />
 
--The carousel images are as follows:
+- The carousel images are as follows:
 <br />
--Image 1: Taken by Genaro Servin on Pexels.com
+- Image 1: Taken by Genaro Servin on Pexels.com
 <br />
--Image 2: Taken by Yan Krukov on Pexels.com
-<br />
--Image 3: Taken by Jackmac34 on Pixabay.com
+- Image 2: Taken by Yan Krukov on Pexels.com 
 
 <br />
 
+- Bootstrap Library used in project mainly to make site responsive
+- Inter and Oswald fonts supplied by Google Fonts
+- Social media icons by Fontawesome
+- Images used in readme were screen shot from W3 Validators and Am I Responsive

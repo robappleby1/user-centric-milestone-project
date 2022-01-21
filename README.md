@@ -146,7 +146,7 @@ Type git clone, and then paste the URL you copied.
 The Lighthouse, W3C Markup Validator and the Lighthose report were used to determine whether there were any
 errors in the code.
 
-- [W3C Markup Validator]
+- [W3C Markup Validator](assets/images/html-verification.png)
 - [W3C CSS Validator](assets/images/css-validator.png)
 - [Lighthouse report](assets/images/lighthouse.png)
 

@@ -123,7 +123,7 @@ Log in to GitHub and locate the GitHub Repository.
 At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 You should now have a copy of the original repository in your GitHub account.
 <br />
-## Making a Local Clone
+## Local Deployment
 Log in to GitHub and locate the GitHub Repository.
 Under the repository name, click "Clone or download".
 To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
@@ -131,7 +131,7 @@ Open Git Bash.
 Change the current working directory to the location where you want the cloned directory to be made.
 Type git clone, and then paste the URL you copied.
 <br/>
-## Github Pages
+## Remote Deployment
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
 2. At the top of the Repository locate the "Settings".
 3. Click on "Pages" will open "GitHub Pages" Section.
@@ -156,47 +156,72 @@ errors in the code.
     - When accessing the site, users see the main header image which immediately grabs the attention.
     - Easily readable fixed navigation page allows users to navigate up and down the page easily.
     - The sections have been designed to be easily readable, with each section identifiable with colour breaks.
+
 <br />
+
 - As a first time user I need to be able to view the website clearly on both tablet and mobile, as well as desktop.
-    - The website was built from a mobile-first design perspective, giving a clear indication of the important information the end user needs.
-    <br />
+    - The website was built from a mobile-first design perspective, giving a clear indication of the important      information the end user needs.
+
+<br />
 
 - As a first time user I need to be able to easily find contact details to book lessons and also find social media links to follow the school.
     - Upon entering the site the booking form to access the ability to book a free taster lesson is immediately to the right or underneath the header form, so this is easy to access. The fixed navigation bar at the top gives easy access to the contact details at the foot of the website.
+
     <br />
 
 - As a first time user I need to be able to view testimonials to understand what the users think of the service provided.
-    - The testimonials section is easily accessed via the fixed navigation bar.
-
+     - The testimonials section is easily accessed via the fixed navigation bar.
 <br />
 
 # Further Testing
 
-The Website was tested on Chrome, Firefox and Safari browsers.
-The site was tsted to make sure all links worked properly.
+- The Website was tested on Chrome, Firefox and Safari browsers.
+- The site was tested to make sure all links worked properly.
+- The website was viewed on a variety of devices such as Desktop, Laptop, Tablet, iphone SE, iphone X, iphone 7.
+- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 <br />
 
 # Credits
 ## The following images were used in the project:
 <br />
-- The header image was taken by user 4634656 on pixabay.com. 
+
+- The header image was taken by user 4634656 on pixabay.com [link](https://pixabay.com/photos/drums-drummer-floor-sticks-pool-2089829/)
 <br />
-- The 2nd image was taken by user Tima Miroschnichenko on Pexels.com
+
+- The 2nd image was taken by user Tima Miroschnichenko on Pexels.com [link](https://www.pexels.com/photo/man-playing-drum-set-5045874/)
 <br />
-- The 3rd image was taken by user cottonbro on Pexels.com
+
+- The 3rd image was taken by user cottonbro on Pexels.com [link](https://www.pexels.com/photo/girl-having-fun-playing-bass-drum-9644679/)
 
 <br />
 
 - The carousel images are as follows:
 <br />
-- Image 1: Taken by Genaro Servin on Pexels.com
+
+- Image 1: Taken by Genaro Servin on Pexels.com [link](https://www.pexels.com/photo/man-playing-drum-inside-mall-804552/)
 <br />
-- Image 2: Taken by Yan Krukov on Pexels.com 
+
+- Image 2: Taken by Yan Krukov on Pexels.com [link](https://www.pexels.com/photo/man-in-black-shirt-playing-drums-beside-yellow-light-9009601/)
+<br />
+
+- Image 3: Taken by jackmac34 on Pixabay.com [link](https://pixabay.com/photos/music-drums-instruments-musician-1378224/)
+
+
 
 <br />
+
+# Credits
 
 - Bootstrap Library used in project mainly to make site responsive
 - Inter and Oswald fonts supplied by Google Fonts
 - Social media icons by Fontawesome
 - Images used in readme were screen shot from W3 Validators and Am I Responsive
+
+<br />
+
+# Acknowledgements
+
+My Mentor Chris Quinn for continuous helpful feedback.
+
+Slack community for helpful advice.

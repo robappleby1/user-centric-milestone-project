@@ -11,7 +11,7 @@ h1{
 
 
 
-/*------------------------------------------images */
+/*------------------------------------------navbar */
 
 .header-container {
     background: #036ffc;
@@ -54,7 +54,7 @@ h1{
     color: #00bee0;
 }
 
-
+/*------------------------------------------form */
 
 .form-header{
     font-family: oswald, sans-serif;
@@ -71,7 +71,7 @@ h1{
        font-family: inter, sans-serif;
         }
 
-       
+       /*------------------------------------------about us */
 
 .about-us{
     color: rgba(3,111,252);
@@ -118,6 +118,7 @@ h1{
     color: #00bee0;
 }
 
+/*------------------------------------------studio section*/
 
 .studio-equipment-container{
     background-color: #f57a07;
@@ -152,12 +153,15 @@ h1{
     color: #fff;
 }
 
+/*------------------------------------------gallery */
 .gallery-container h5{
     color: #fff;
     margin-top: 10px;
     margin-bottom: 10px;
     
 }
+
+/*------------------------------------------testimonials */
 
 .testimonials-container p{
     color: #000;
@@ -173,6 +177,7 @@ h1{
 
 }
     
+/*------------------------------------------footer */
 
 .footer{
     background: #036ffc;

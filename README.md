@@ -123,7 +123,8 @@ Log in to GitHub and locate the GitHub Repository.
 At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 You should now have a copy of the original repository in your GitHub account.
 <br />
-## Local Deployment
+
+## Making a Local Clone
 Log in to GitHub and locate the GitHub Repository.
 Under the repository name, click "Clone or download".
 To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
@@ -131,7 +132,8 @@ Open Git Bash.
 Change the current working directory to the location where you want the cloned directory to be made.
 Type git clone, and then paste the URL you copied.
 <br/>
-## Remote Deployment
+
+## Github Pages
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
 2. At the top of the Repository locate the "Settings".
 3. Click on "Pages" will open "GitHub Pages" Section.
@@ -172,6 +174,14 @@ errors in the code.
 - As a first time user I need to be able to view testimonials to understand what the users think of the service provided.
      - The testimonials section is easily accessed via the fixed navigation bar.
 <br />
+
+# Errors and Bugs
+
+- On smaller devices the dropdown menu was being hidden behind the main logo - this was fixed by reducing the main logo slightly in size to fit the two side by side.
+
+- On tablet devices, the two images in the about us section and the equipment section were breaking out of their container. This was rectified by altering the html file to make them responsive images. The image in the equipment section was still close to the edge of the page so this was reduced in size to resolve the issue.
+
+- The images in the carousel were too big in height which was causing it to be too big for the viewing height of the screen. The images were cropped and resized to ensure the whole of the image filled the screen which was the desired effect.
 
 # Further Testing
 
